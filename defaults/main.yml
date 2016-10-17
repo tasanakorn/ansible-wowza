@@ -1,8 +1,5 @@
-wowza_version: "WowzaStreamingEngine-4.1.2.deb.bin"
-user_name: "username"
+wowza_installer: "WowzaStreamingEngine-4.5.0-linux-x64-installer.run"
+wowza_download_url: "https://www.wowza.com/downloads/WowzaStreamingEngine-4-5-0/WowzaStreamingEngine-4.5.0-linux-x64-installer.run"
+user_name: "admin"
 password: "password"
-license_key: "insert key between quotations"
-
-the_expectables:
-- expect
-- expect-dev
+license_key: ""
